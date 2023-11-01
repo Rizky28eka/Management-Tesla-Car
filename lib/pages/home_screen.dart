@@ -4,12 +4,10 @@ import 'package:flutter_svg/svg.dart';
 import 'package:tesla_animated_app/constanins.dart';
 import 'package:tesla_animated_app/home_controller.dart';
 import 'package:tesla_animated_app/models/TyrePsi.dart';
-
 import 'components/battery_status.dart';
 import 'components/door_lock.dart';
 import 'components/temp_details.dart';
 import 'components/tesla_bottom_navigationbar.dart';
-import 'components/tmp_btn.dart';
 import 'components/tyre_psi_card.dart';
 import 'components/tyres.dart';
 
